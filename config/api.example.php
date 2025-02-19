@@ -21,7 +21,7 @@ return [
     | necessary permissions for the application to function properly.
     |
     */
-    'token' => '',
+    'token' => '2e2f26a3e0612088dca8acd489919e9dcdd12',
 
     /*
     |--------------------------------------------------------------------------
@@ -32,7 +32,7 @@ return [
     | permissions over every account and zone to avoid conflicts.
     |
     */
-    'client_id' => '',
+    'client_id' => 'erhardt@vinet.co.za',
 
     /*
     |--------------------------------------------------------------------------
